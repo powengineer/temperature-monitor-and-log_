@@ -1,0 +1,8 @@
+D:\proje_fatih\embedded\EWARM\embedded\BrowseInfo\Middlewares\USB_Host_Library\usbh_core.pbi: \
+  D:\proje_fatih\embedded\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_core.c \
+  D:\proje_fatih\embedded\EWARM\..\Middlewares\ST\STM32_USB_Host_Library\Core\Inc\usbh_core.h \
+  D:\proje_fatih\embedded\EWARM\..\Middlewares\ST\STM32_USB_Host_Library\Core\Inc\usbh_def.h \
+  D:\proje_fatih\embedded\EWARM\..\Middlewares\ST\STM32_USB_Host_Library\Core\Inc\usbh_ioreq.h \
+  D:\proje_fatih\embedded\EWARM\..\Middlewares\ST\STM32_USB_Host_Library\Core\Inc\usbh_core.h \
+  D:\proje_fatih\embedded\EWARM\..\Middlewares\ST\STM32_USB_Host_Library\Core\Inc\usbh_pipes.h \
+  D:\proje_fatih\embedded\EWARM\..\Middlewares\ST\STM32_USB_Host_Library\Core\Inc\usbh_ctlreq.h

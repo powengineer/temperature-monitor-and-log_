@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>5</fileVersion>
+    <fileChecksum>477090009</fileChecksum>
+    <configuration>
+        <name>embedded</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\Core\Src\freertos.c</file>
+            <file>$PROJ_DIR$\..\Core\Src\main.c</file>
+            <file>$PROJ_DIR$\startup_stm32f407xx.s</file>
+            <file>$PROJ_DIR$\..\Core\Src\stm32f4xx_hal_msp.c</file>
+            <file>$PROJ_DIR$\..\Core\Src\stm32f4xx_it.c</file>
+            <file>$PROJ_DIR$\..\..\library\userInterface\UserInterface.h</file>
+            <file>$PROJ_DIR$\..\..\library\userInterface\userInterface.c</file>
+            <file>$PROJ_DIR$\..\..\library\uart\uart.h</file>
+            <file>$PROJ_DIR$\..\..\library\uart\uart.c</file>
+            <file>$PROJ_DIR$\..\..\library\rtc\rtc_setting.c</file>
+            <file>$PROJ_DIR$\..\..\library\eeprom\eeprom.h</file>
+            <file>$PROJ_DIR$\..\..\library\tempSensor\tempSensor.h</file>
+            <file>$PROJ_DIR$\..\..\library\rtc\rtc_setting.h</file>
+            <file>$PROJ_DIR$\..\..\library\eeprom\eeprom.c</file>
+            <file>$PROJ_DIR$\..\..\library\common\common.h</file>
+            <file>$PROJ_DIR$\..\..\library\tempSensor\tempSensor.c</file>
+            <file>$PROJ_DIR$\..\..\library\common\common.c</file>
+        </outputs>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+</project>
